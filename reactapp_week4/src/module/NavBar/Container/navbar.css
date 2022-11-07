@@ -1,0 +1,25 @@
+.navbar {
+    background-color: black;
+    padding: 0px;
+    align-items: center;
+    font-family: Georgia, serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.link {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav-dropdown {
+    text-decoration: none;
+    margin-top: -9px;
+    color: white;
+}
+
+

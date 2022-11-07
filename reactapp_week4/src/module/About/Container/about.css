@@ -1,0 +1,9 @@
+.img-fluid shadow-4 {
+    max-width: 100%;  
+}
+
+.aboutpage {
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+}

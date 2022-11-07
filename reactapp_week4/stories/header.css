@@ -1,0 +1,19 @@
+.wrapper {
+  font-family: Georgia, serif;
+  padding: 2px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.iconbutton {
+  align-items: right;
+}
+
+.welcome {
+  color: white;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
